@@ -1,7 +1,7 @@
 {
-    "name": "Additional Icons v0.1",
+    "name": "Additional Icons v0.2",
     "alias": "witsec-additional-icons",
-    "version": 0.1,
+    "version": 0.2,
     "minAppVersion": "4",
     "plugins": ["font-awesome-brands", "font-awesome-regular", "font-awesome-solid", "material-design"],
     "description": "Add additional icons to your website, such as Font Awesome and Material Design. <a href='https://witsec.nl'>Learn more...</a>",
