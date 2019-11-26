@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v2 (2019-11-26)
+
+- Added Themify and Map Icons to the family
+
 ## 0.2 (2018-11-27)
 
 - Fixed css conflicts if one has the Mobirise icon font extension installed
