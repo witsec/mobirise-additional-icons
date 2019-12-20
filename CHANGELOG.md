@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v3 (2019-12-20)
+
+- Added 'fa-fw' class to Font Awesome icons, so they're all the same size
+
 ## v2 (2019-11-26)
 
 - Added Themify and Map Icons to the family
