@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v4 (2020-03-14)
+
+- Fixed compatibility with Mobirise v5
+
 ## v3 (2019-12-20)
 
 - Added 'fa-fw' class to Font Awesome icons, so they're all the same size
